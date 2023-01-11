@@ -2,7 +2,7 @@ package teachmeskills;
 
 import java.util.Scanner;
 
-public class array2 {
+public class Array2 {
     public static void main(String[] args) {
         int[] massive = {2, 11, 8, 12, 19, 1, 10, 15, 7, 20};
     Scanner sc = new Scanner(System.in);
